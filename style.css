@@ -1,0 +1,10 @@
+h3{
+    color: blue;
+}
+span{
+    color: black;
+    border-bottom: 2px black solid;
+}
+p{
+    font-size: 1.5rem;
+}
